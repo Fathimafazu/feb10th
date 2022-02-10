@@ -1,0 +1,10 @@
+# Online Python - IDE, Editor, Compiler, Interpreter
+#positive or negative
+n=int(input('enter n '))
+if n>=0:
+    print ('positive')
+else:
+    print ('negative')
+enter n 
+2002
+positive
